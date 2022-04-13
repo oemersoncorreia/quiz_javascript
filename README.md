@@ -10,8 +10,8 @@ Baixe e use no seu servidor ou máquina local.
 
 Fonte: https://github.com/briancodex/quiz-app-js
 
-- Pull requestes são bem-vindas. Este é um exercício feito a partir de briancodex. 
-- Reorganizei as pastas
+- Pull requests são bem-vindas. Este é um exercício feito a partir de @briancodex. 
+- Reorganizei as pastas.
 
 ## License
 
