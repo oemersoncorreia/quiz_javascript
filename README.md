@@ -20,4 +20,4 @@ Fonte: https://github.com/briancodex/quiz-app-js
 <h1>
   
   ### Front-end
-![Be The Hero GIF](github/readme-quiz.gif)
+![readme-quiz](https://user-images.githubusercontent.com/101511919/163269083-96063270-dfea-41cf-ba71-193bc1748978.gif)
