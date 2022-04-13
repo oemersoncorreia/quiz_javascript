@@ -16,5 +16,5 @@ Fonte: https://github.com/briancodex/quiz-app-js
 ## License
 
 <h1 align="center">
-  <img alt="Readme" title="Readme" src="./github/readme-quiz.gif">
+  <img alt="Readme" title="Readme" src="./github/quiz_javascript/readme-quiz.gif">
 <h1>
