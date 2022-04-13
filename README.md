@@ -17,5 +17,7 @@ Fonte: https://github.com/briancodex/quiz-app-js
 
 MIT License
 
-### Front-end
+## Front-end
+
 ![readme-quiz](https://user-images.githubusercontent.com/101511919/163269083-96063270-dfea-41cf-ba71-193bc1748978.gif)
+
