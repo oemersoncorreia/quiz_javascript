@@ -18,3 +18,6 @@ Fonte: https://github.com/briancodex/quiz-app-js
 <h1 align="center">
   <img alt="Readme" title="Readme" src="./github/quiz_javascript/readme-quiz.gif">
 <h1>
+  
+  ### Front-end
+![Be The Hero GIF](github/readme-quiz.gif)
